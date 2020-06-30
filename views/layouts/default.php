@@ -51,7 +51,7 @@
                 <ul class="navbar-nav small mt-5" >
                     <li class="nav-item">
                     <a class="nav-link" href="<?=BASE_URL?>/etudiant/ajoutEtudiant">
-                        <img src="<?=BASE_URL?>/public/images/add_box-24px.svg" alt="ghj"/>
+                        <img src="<?=BASE_URL?>/public/images/add_box-24px.svg" alt="-"/>
                         <!-- <img style="width:50px;height:50px;" src="public/images/apartment-24px.svg" alt="ghj"/> -->
                         AJOUT ETUDIANT
                     </a>
@@ -59,14 +59,14 @@
                     <li class="nav-item">
                     <a class="nav-link" href="<?=BASE_URL?>/etudiant/listeEtudiant">
 
-                        <img src="<?=BASE_URL?>/public/images/ballot-24px.svg" alt="-"/>
+                        <img src="<?=BASE_URL?>//public/images/ballot-24px.svg" alt="-"/>
                         LISTE ETUDIANTS
                     </a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link" href="<?=BASE_URL?>/chambre/ajoutChambre">
+                    <a class="nav-link" href="<?=BASE_URL?>//chambre/ajoutChambre">
 
-                        <img src="<?=BASE_URL?>/public/images/add_box-24px.svg" alt="-"/>
+                        <img src="<?=BASE_URL?>//public/images/add_box-24px.svg" alt="-"/>
                             AJOUT CHAMBRE
                     </a>
                     </li>

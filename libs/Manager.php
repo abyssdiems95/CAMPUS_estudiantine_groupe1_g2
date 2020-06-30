@@ -12,6 +12,7 @@
                 try
                 {
                     $this->pdo = new PDO("mysql:host=localhost;dbname=gestion_campus","root","");
+                    //$this->pdo = new PDO("mysql:host=mysql-smb.alwaysdata.net;dbname=smb_crudpoo","smb","passemouhamed");
                     $this->pdo->setAttribute(PDO::ATTR_DEFAULT_FETCH_MODE,PDO::FETCH_ASSOC);
                 }
                 catch(PDOException $ex)
